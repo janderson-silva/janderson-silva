@@ -1,83 +1,77 @@
-###
+<h1 align="center">👨‍💻 Janderson Silva</h1>
+<p align="center">
+  Especialista Delphi (VCL & FMX) | Desenvolvedor de sistemas ERP e APIs REST | PostgreSQL & Firebird
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janderson-silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janderson-silva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=janderson-silva&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janderson-silva&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
 </div>
 
-###
+---
 
-<hr>
+### 🚀 Sobre Mim
 
-###
+Sou desenvolvedor Delphi (VCL & FMX), especializado na criação de soluções empresariais robustas, incluindo:
 
+- 🧾 Sistemas ERP (foco em automação comercial e integração fiscal)
+- 🌐 APIs REST com **Horse**
+- 🔗 Consumo de APIs com **RestRequest4Delphi**
+- ⚙️ Ferramentas para aumentar produtividade no desenvolvimento
+- 🗄️ Banco de dados Firebird e PostgreSQL (modelagem, performance e integração)
+
+Tenho formação sólida:
+- 🎓 **Bacharel em Sistemas de Informação**
+- 🎓 **Especialista em Docência do Ensino Superior**
+- 🎓 **Especialista em Análise Criminal**
+
+---
+
+### 🛠️ Principais Tecnologias
+
+#### 💻 Linguagem
 <div align="center">
-  <img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi badge" />
-  <p>Linguagem de programação</p>
+  <img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
 </div>
 
-###
-
-<hr>
-
-###
-
+#### ⚙️ Frameworks e Bibliotecas
 <div align="center">
-  <img src="https://img.shields.io/badge/ACBr-007ACC?style=for-the-badge&logo=data:image/png;base64,..." alt="ACBr badge" />
-  <img src="https://img.shields.io/badge/Horse-4CAF50?style=for-the-badge&logo=data:image/png;base64,..." alt="Horse badge" />
-  <img src="https://img.shields.io/badge/RestRequest4Delphi-FF5722?style=for-the-badge&logo=data:image/png;base64,..." alt="RestRequest4Delphi badge" />
-  <p>Frameworks</p>
+  <img src="https://img.shields.io/badge/ACBr-007ACC?style=for-the-badge&logo=data:image/png;base64,..." />
+  <img src="https://img.shields.io/badge/Horse-4CAF50?style=for-the-badge&logo=data:image/png;base64,..." />
+  <img src="https://img.shields.io/badge/RestRequest4Delphi-FF5722?style=for-the-badge&logo=data:image/png;base64,..." />
 </div>
 
-###
-
-<hr>
-
-###
-
+#### 🗄️ Bancos de Dados
 <div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge" />
-  <img src="https://img.shields.io/badge/Firebird-FF9A00?style=for-the-badge&logo=firebird&logoColor=white" alt="Firebird badge" />
-  <p>Banco de dados</p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebird-FF9A00?style=for-the-badge&logo=firebird&logoColor=white" />
 </div>
 
-###
+---
 
-<hr>
-
-###
+### 📫 Contato
 
 <div align="center">
   <a href="mailto:janderson97.rm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="https://www.linkedin.com/in/janderson-silva-a2ab07b1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="janderson.silva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="https://www.instagram.com/janderson.silv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="https://www.facebook.com/janderson.silva.58" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <p>Contatos</p>
 </div>
 
-###
-
-<hr>
-
-###
+---
 
 <div align="center">
-  <p>Além dessas ferramentas, conto com diversas outras habilidades e metodologias que aprimoram meu desenvolvimento de software.</p>
+  <strong>🧠 Sempre aprendendo, sempre evoluindo.</strong><br>
+  <em>Compartilhando conhecimento, otimizando processos e desenvolvendo com propósito.</em>
 </div>
-
-###
-
-<hr>
-
-###
