@@ -3,11 +3,6 @@
   Especialista Delphi (VCL & FMX) | Desenvolvedor de sistemas ERP e APIs REST | PostgreSQL & Firebird
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janderson-silva&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janderson-silva&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
-</div>
-
 ---
 
 ### 🚀 Sobre Mim
